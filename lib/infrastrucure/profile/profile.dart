@@ -1,0 +1,2 @@
+List likedMovies = [];
+List watchLater = [];
